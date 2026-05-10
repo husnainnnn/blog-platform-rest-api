@@ -3,20 +3,18 @@
 REST API built with Node.js, Express, MongoDB, and bcrypt.
 
 ## Setup
-//Download Zip from here
-```bash
-npm install
-```
-
 Create a `.env` file:
 ```
 MONGO_URI=(your-MongoDB-URL-Here)
 PORT=3000
 ```
 
+//Download Zip from here
 ```bash
+npm install
 npm start
 ```
+
 
 ## API Endpoints
 
